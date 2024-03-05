@@ -21,5 +21,4 @@
 🚀 Sempre em busca de conhecimento para evoluir! 💡
 
 ## Contato
-- [Whatsapp +55 (91) 98718-0878](https://wa.me/qr/DIIBFC4SPEZIE1)<br/>
-- [Whatsapp +55 (91) 98617-8012](link)<br/>
+- [Whatsapp +55 (91) 98718-0878](https://wa.me/qr/DIIBFC4SPEZIE1)
