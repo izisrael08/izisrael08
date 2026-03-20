@@ -1,30 +1,54 @@
-### Olá, eu sou Israel Guedes 👋
+# Olá, eu sou Israel Guedes 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/israel-guedes-4849232b5)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=izisrael08&show_icons=true&theme=dracula)
+> **Software Developer & Graphic Designer** 🚀
+> Com mais de 5 anos de experiência, focado em criar soluções eficientes tanto no código quanto no visual. Atualmente focado no ecossistema .NET, Flutter e Ciência de Dados.
 
 ---
 
-### 🚀 Tecnologias que eu uso no meu dia a dia
+### 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br/>
+#### **Backend & Desktop**
+<div style="display: inline_block">
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+</div>
 
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+#### **Mobile Development**
+<div style="display: inline_block">
+  <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img align="center" alt=".NET MAUI" src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</div>
 
+#### **Frontend & Design**
+<div style="display: inline_block">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
 
 ---
 
-💡 Sempre em busca de conhecimento para evoluir como profissional!
+### 📊 O que eu trago na bagagem:
+
+- **Especialista em ERP:** Experiência prática com o sistema **CIGAM**.
+- **Data Science:** Pós-graduado, com foco em análise de dados e soluções inteligentes.
+- **Fullstack Real:** Do design de interfaces (UI/UX) à arquitetura de banco de dados e APIs.
+- **Desenvolvimento Cross-platform:** Criação de apps nativos com Flutter e .NET MAUI.
+
+---
+
+### 📈 Estatísticas do GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=izisrael08&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izisrael08&layout=compact&theme=dracula)
 
 ---
 
 ## 📞 Contato
 
-- [Whatsapp +55 (91) 98718-0878](https://wa.me/qr/DIIBFC4SPEZIE1)
-
+- [**WhatsApp**](https://wa.me/5591987180878)
+- [**LinkedIn**](https://www.linkedin.com/in/israel-guedes-4849232b5)
