@@ -15,46 +15,37 @@
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
 #### **Mobile Development**
 <div style="display: inline_block">
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img align="center" alt=".NET MAUI" src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </div>
 
-#### **Frontend & UI/UX Design**
-<div style="display: inline_block">
-  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+---
+
+### 📈 Estatísticas e Foco Técnico
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izisrael08&layout=compact&theme=dracula&hide=html,css,tex&langs_count=6" />
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=izisrael08&theme=dracula" />
 </div>
 
 ---
 
 ### 📊 Diferenciais Profissionais
 
-- **Fullstack Versátil:** Sólida experiência em **Java/Spring Boot** e **C#/.NET**, permitindo atuar em diversos ecossistemas corporativos.
-- **Especialista CIGAM:** Domínio do ERP CIGAM para integrações e customizações.
-- **Data Science:** Pós-graduado, aplicando análise de dados para tomada de decisão técnica.
-- **Design Driven:** Formação em Design Gráfico, garantindo interfaces de alta fidelidade e excelente UX.
-
----
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izisrael08&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izisrael08&layout=compact&theme=dracula&hide=html,css,tex&langs_count=6" />
-</p>
+- **Fullstack Versátil:** Sólida experiência em **Java/Spring Boot** e **C#/.NET**.
+- **Design Driven:** Formação em Design Gráfico, garantindo interfaces de alta fidelidade.
+- **Data Science:** Pós-graduado, unindo análise de dados ao desenvolvimento.
 
 ---
 
 ## 📞 Vamos conversar?
 
-- [**WhatsApp**](https://wa.me/5591987180878)
-- [**LinkedIn**](https://www.linkedin.com/in/israel-guedes-4849232b5)
+<div style="display: inline_block">
+  <a href="https://wa.me/5591987180878"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/israel-guedes-4849232b5"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
